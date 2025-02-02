@@ -2,14 +2,20 @@
 
 ## Local Development Setup
 
-To run locally:
+> [!IMPORTANT]
+> Please refresh the page after running the app for the first time (subsequent re-runs won't have this issue). For some reason Tailwind styles don't work when you do a fresh install and start the app.
+
+Install dependencies
 
 ```shell
-npm i & npm run dev
+npm i
 ```
 
-> [!IMPORTANT]
-> Please refresh the page after running the app for the first time (Subsequent re-runs won't have this issue). For some reason Tailwind styles don't work when you do a fresh install and start the app.
+Run the app
+
+```shell
+npm run dev
+```
 
 ## Overview
 
