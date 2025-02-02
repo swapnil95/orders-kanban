@@ -26,6 +26,7 @@ As stated in the coding challenge docs. I've focused on clean code rather than i
 - Clicking outside the dialog doesn't close the dialog
 - The data is not loaded from an API
 - Not all component are broken down into re-usable components
+- The recently viewed column is not implemented
 
 ### Folder Structure
 
