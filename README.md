@@ -9,7 +9,7 @@ npm i & npm run dev
 ```
 
 > [!IMPORTANT]
-> Refresh the page after running the app for the first time to get tailwind styles working. Subsequent re-runs of the dev server won't have this issue. It happens only when you do a fresh install of dependencies.
+> Please refresh the page after running the app for the first time (Subsequent re-runs won't have this issue). For some reason Tailwind styles don't work when you do a fresh install and start the app.
 
 ## Overview
 
